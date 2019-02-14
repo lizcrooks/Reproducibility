@@ -56,7 +56,7 @@ knitr::include_graphics("syncro.png")
     
 ```{r, echo=TRUE, eval=FALSE}
 # collecting
-fileLink="https://github.com/EvansDataScience/data/raw/master/censoredworld.csv"
+fileLink="https://github.com/eScienceWinterSchool/Reproducibility/raw/master/censoredworld.csv"
 dataidx=read.csv(fileLink)
 
 # Describing a categorical variable**:

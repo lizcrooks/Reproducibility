@@ -49,7 +49,7 @@ Sections may use a label\footnote{In fact, you can have a label wherever you thi
 
 <<>>=
 # collecting
-fileLink="https://github.com/EvansDataScience/data/raw/master/censoredworld.csv"
+fileLink="https://github.com/eScienceWinterSchool/Reproducibility/raw/master/censoredworld.csv"
 dataidx=read.csv(fileLink)
 
 @
