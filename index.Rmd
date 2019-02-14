@@ -101,7 +101,7 @@ plot(dataidx$FH~dataidx$RWB)
 
 _____
 
-[Back to course schedule menu](https://evansdatascience.github.io/VisualAnalytics/)
+[Back to Winter school repos](https://github.com/eScienceWinterSchool)
 
 
 
