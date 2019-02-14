@@ -19,3 +19,4 @@ Before next session, make sure you have the tools that will be used along the co
 </center>
 
 
+When you are ready, read this [page](https://esciencewinterschool.github.io/Reproducibility/).
